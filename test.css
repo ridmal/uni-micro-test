@@ -1,0 +1,24 @@
+
+table.internalTable {
+    border: 1px solid red;
+}
+
+table.internalTable td{
+    border: 1px solid red;
+}
+table.internalTable th{
+    border: 1px solid red;
+}
+table.externalTable {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table.externalTable td{
+    border: 1px solid black;
+    font-size: 12px;
+}
+table.externalTable th{
+    background-color: black;
+    color:white;
+    font-size: 12px;
+}
