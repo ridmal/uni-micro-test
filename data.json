@@ -1,0 +1,7 @@
+{
+    "tableHeders":["","Janury","February","March","April","Sum"],
+    "data" : [
+        ["Name1","12","14","20","46"],["Name2","2","4","6","12"],["Name3","3","10","7","20"]
+    ]
+}
+
